@@ -1,0 +1,13 @@
+{
+  "name" :"Webscraper",
+  "version" :"0.0.1",
+  "description" :"Basic Web Scraper",
+  "main"  :"server.js",
+  "author"  :"Ren",
+  "dependencies"  :{
+    "express" :"latest",
+    "request" :"latest",
+    "cheerio" :"latest"
+  }
+
+}
