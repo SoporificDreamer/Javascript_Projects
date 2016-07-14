@@ -1,5 +1,4 @@
 ## This is just a plain Readme..
-## But I have some stuff here that needs to be remembered
 
 1. In the .gitignore I have excluded the node_modules, what this means is:
 2. The necessary packages to run the program i.e. cheerio, express and request are missing,
